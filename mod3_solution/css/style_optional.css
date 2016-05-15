@@ -1,0 +1,30 @@
+
+*{
+	box-sizing: border-box;
+}
+.list-changes{
+	text-decoration:none;
+	text-align: center;
+	margin: 0 0 0 0 ;
+	padding: 0 0 0 0;
+	background-color: #af5f0f;
+}
+.dropbutton{
+	text-align: center;
+	margin:auto 0;
+	border-top: 3px solid black;
+}
+.some-change{
+	border:3px solid black;
+	color: black;
+}
+.section-setting{
+	background-color: #ffcfff;
+	border:3px black solid;
+	padding: 10px;
+	margin: 8px 8px 8px;
+}
+#Beef, #Chicken, #Sushi{
+	margin: auto;
+	padding: 0px 0px 0px 0px;
+}
